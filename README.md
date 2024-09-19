@@ -2,7 +2,7 @@
 Directions:
 <p><b>Github:</b> Go to github.comm and sign up for an account. Click on + icon to create a New Repository.</p>
 <p><b>Git:Go to git-scm.com and run the installer. Open your terminal and set up your account.</b> </p>
-<p><b>Webstorm: Go to jetbrains.com/webstorm install the software and launch it.</b></p>
+<p><b>Webstorm:</b> Go to jetbrains.com/webstorm install the software and launch it.</p>
 
 <p><b>Glossary</b></p>
 <ul>
